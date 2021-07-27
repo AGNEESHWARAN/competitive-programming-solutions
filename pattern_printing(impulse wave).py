@@ -1,13 +1,13 @@
-#sample input
+#sample input 1
 #plots=[10,7,12,2,4,7,2,4,1,2,6,6,3,2,1,4,7,2,7,3,1,3,11,4,2,1,5,2,3,3,3,6,1,3,9,5,2,1,2,11,9,2,3,8,2,5,1,2,7,2,4,11,2,12]
 
 
 
-#sampe input
+#sampe input 2
 #plots=[1,2,3,4,5,6,7,8]
 
 '''
-sample output
+sample output 2
                            /\       
               /\          /  \      
      /\      /  \        /    \     
@@ -19,10 +19,10 @@ sample output
 '''
 
 
-#sample input
+#sample input 3
 plots=[1,2,3,4,5,5,4,3,2,1]
 '''
-sample output
+sample output 3
               /\              
      /\      /  \      /\     
 /\  /  \    /    \    /  \  /\
